@@ -1,3 +1,5 @@
+[Curve Fitting Info](https://www.mathworks.com/products/curvefitting.html)
+
 [Goodness of fit](https://www.mathworks.com/help/curvefit/evaluating-goodness-of-fit.html)
 
 Sum of Squares Due to Error (SSE) - closer to 0 = good
