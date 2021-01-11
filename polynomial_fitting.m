@@ -4,9 +4,9 @@ load data_file;
 x = x';
 y = y';
 
-figure
-plot(x, y, '.');
-title('Input data');
+% figure
+% plot(x, y, '.');
+% title('Input data');
 
 % built-in sixth degree polynomial
 %[population, gof] = fit(x, y, 'poly6');
@@ -20,3 +20,5 @@ plot(population, x, y);
 title('Polynomial fitting');
 
 disp(population);
+disp('Goodness of fit');
+disp(gof);
